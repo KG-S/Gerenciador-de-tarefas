@@ -1,8 +1,4 @@
-# React + Vite
+# Gerenciador de tarefas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+É utilizado React + Vite e JS
+O site é um gerenciador de tarefas que permite aos usuários adicionar, remover e gerenciar suas tarefas de forma eficiente. Além disso, oferece a funcionalidade de marcar uma tarefa como concluída, representada pela cor verde, ou como pendente, indicada pela cor vermelha, facilitando o acompanhamento do progresso.
